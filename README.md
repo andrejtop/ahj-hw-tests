@@ -1,3 +1,4 @@
+[![Netology homework](https://github.com/andrejtop/ahj-hw-tests/actions/workflows/web.yml/badge.svg)](https://github.com/andrejtop/ahj-hw-tests/actions/workflows/web.yml)
 # Домашнее задание к занятию "4.Организация тестирования"
 
 Правила сдачи задания:
